@@ -21,6 +21,8 @@ class ViewController: UIViewController , UICollectionViewDelegate , UICollection
         
         
         
+            
+        
         
         
         arrOfImage.append(images(photo: UIImage(named: "image1")!, Description: "image1"))
