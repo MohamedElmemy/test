@@ -17,6 +17,10 @@ class ViewController: UIViewController , UICollectionViewDelegate , UICollection
         collectionView.delegate = self
         collectionView.dataSource = self
         
+           
+        
+        
+        
         
         
         arrOfImage.append(images(photo: UIImage(named: "image1")!, Description: "image1"))
